@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 <a href="https://wwwgithub.com/seapat">
   <img height=400 align="center" src="./profile/stats.svg" />
-
   <img height=400 align="center" src="./profile/top-langs.svg" />
 </a>
