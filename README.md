@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+-->
 
 <a href="https://https://github.com/seapat">
   <img height=200 align="center" src="./profile/stats.svg" />
