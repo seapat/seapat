@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 ![Top Languages](./profile/top-langs.svg)
 -->
 <a href="https://www.github.com/seapat">
-  <img height=400 align="center" src="./profile/stats.svg" />
-  <img height=400 align="center" src="./profile/top-langs.svg" />
-</a>
-
-<a href="https://www.github.com/seapat">
   <img height=200 align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://www.github.com/seapat">
-  <img height=200 align="center" src="./profile/top-langs.svg"  />
+  <img height=300 align="center" src="./profile/top-langs.svg"  />
 </a>
