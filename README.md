@@ -20,3 +20,10 @@ Here are some ideas to get you started:
   <img height=400 align="center" src="./profile/stats.svg" />
   <img height=400 align="center" src="./profile/top-langs.svg" />
 </a>
+
+<a href="https://www.github.com/seapat">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://www.github.com/seapat">
+  <img height=200 align="center" src="./profile/top-langs.svg"  />
+</a>
