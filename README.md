@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 -->
-<a href="https://www.github.com/seapat">
+<!-- <a href="https://www.github.com/seapat">
   <img height=200 align="center" src="./profile/stats.svg" />
-</a>
+</a> -->
 <a href="https://www.github.com/seapat">
   <img height=400 align="center" src="./profile/top-langs.svg"  />
 </a>
